@@ -22,7 +22,8 @@ A responsive single-page portfolio showcasing my skills, projects, and contact i
 
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba27cb5e-0370-4daf-afdb-57ab6ee2d5d3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72c401e9-bb29-40fa-bf08-dd4be579c61b" />
+
 
 ## 🧑‍💻 Setup & Run Locally
 bash
