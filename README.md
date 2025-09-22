@@ -17,21 +17,7 @@ A responsive single-page portfolio showcasing my skills, projects, and contact i
 - **Deployment:** GitHub Pages
 
 ## 📂 Project Structure
-My-Portfolio/
-│
-├── index.html              # Main HTML file (entry point)
-├── README.md               # Project documentation
-├── image.png               # Preview/banner image for the portfolio
-│
-├── assets/                 # All static resources
-│   ├── css/                # Stylesheets for layout and design
-│   │   └── styles.css
-│   │
-│   ├── images/             # Additional images used in the portfolio
-│   │   └── (other images...)
-│   │
-│   └── js/                 # JavaScript files for interactivity
-│       └── main.js
+<img width="921" height="489" alt="image" src="https://github.com/user-attachments/assets/e66d8fc1-a221-4468-a850-44bc31d144ae" />
 
 
 
