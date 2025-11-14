@@ -17,13 +17,15 @@ A responsive single-page portfolio showcasing my skills, projects, and contact i
 - **Deployment:** GitHub Pages
 
 ## 📂 Project Structure
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/306fa944-40bf-49b7-ac36-4bd25309be39" />
+<img width="921" height="489" alt="image" src="https://github.com/user-attachments/assets/fb7c610c-4afd-45b9-b844-61e2c5ecc932" />
+
 
 
 
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72c401e9-bb29-40fa-bf08-dd4be579c61b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93f847bb-8cee-4a5f-a906-00599288835d" />
+
 
 
 ## 🧑‍💻 Setup & Run Locally
