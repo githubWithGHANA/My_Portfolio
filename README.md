@@ -9,7 +9,7 @@ A responsive single-page portfolio showcasing my skills, projects, and contact i
 - Deployed on **GitHub Pages**
 
 ## 🚀 Live Demo
-[View the site here]([https://githubwithghana.github.io/My-Portfolio/](https://githubwithghana.github.io/My-Portfolio/))
+[View the site here](https://githubwithghana.github.io/My_Portfolio/)
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
@@ -17,7 +17,8 @@ A responsive single-page portfolio showcasing my skills, projects, and contact i
 - **Deployment:** GitHub Pages
 
 ## 📂 Project Structure
-<img width="921" height="489" alt="image" src="https://github.com/user-attachments/assets/e66d8fc1-a221-4468-a850-44bc31d144ae" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/306fa944-40bf-49b7-ac36-4bd25309be39" />
+
 
 
 
