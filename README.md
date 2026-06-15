@@ -9,7 +9,7 @@ A responsive single-page portfolio showcasing my skills, projects, and contact i
 - Deployed on **GitHub Pages**
 
 ## 🚀 Live Demo
-[View the site here](https://githubwithghana.github.io/My_Portfolio/)
+[View the site here](https://githubwithghana.github.io/ghanashyama-portfolio.io/)
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
